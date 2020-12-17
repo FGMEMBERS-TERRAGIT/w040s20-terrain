@@ -1,0 +1,5 @@
+OBJECT_BASE 2331528.btg
+OBJECT SNES.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -37.955954 -11.750339 167.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -37.944604 -11.750218 156.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -37.950308 -11.749742 162.4 0.00

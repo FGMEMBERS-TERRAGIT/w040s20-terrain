@@ -1,0 +1,4 @@
+OBJECT_BASE 2298599.btg
+OBJECT SIKI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -39.010630 -14.377686 12.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -39.010278 -14.378125 -9999.0 0.00
